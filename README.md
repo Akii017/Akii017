@@ -35,18 +35,13 @@
 
 ## 🛠 Tech Toolbox
 
-<p align="center">
-  <!-- Core Languages / Frontend / Backend -->
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,react,nextjs,express,spring,fastapi,html,css,tailwind,bootstrap,redux,nodejs" />
-  
-  
-  <!-- Databases / DevOps -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,socketio,jwt,docker,kubernetes,jenkins" />
-  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1px;">
 
-  <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,githubactions,vercel,bash" />
-  <br/><br/>
+  <!-- Core Languages / Frontend / Backend -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,react,nextjs,express,spring,fastapi,html,css,tailwind,bootstrap,redux,nodejs,mongodb,mysql,postgres,prisma,socketio,jwt,docker,kubernetes,jenkins,linux,vscode,git,github,githubactions,vercel,bash" />
+
+  
+  <br>
 
   <!-- 🔥 AI + Automation + Auth -->
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -56,7 +51,9 @@
   <img src="https://img.shields.io/badge/Inngest-0A0A0A?style=for-the-badge&logo=protocols&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-5C3EE8?style=for-the-badge&logo=clerk&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcJet-A020F0?style=for-the-badge&logo=shield&logoColor=white" />
-</p>
+
+</div>
+
 
 
 
