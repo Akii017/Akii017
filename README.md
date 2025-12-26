@@ -1,5 +1,4 @@
 
-
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akhil+Vijayan+👋;Full-Stack+%26+Software+Developer+💻;Always+Curious+%26+Learning+🚀" />
@@ -35,29 +34,8 @@
 
 ## 🛠 Tech Toolbox
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
-</p>
-
-### 🔧 Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
-
-### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### ☁ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,linux,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,react,next,tailwind,nodejs,express,spring,mongodb,postgres,mysql,docker,kubernetes,jenkins,git,linux,vscode&perline=9" />
 </p>
 
 ---
@@ -66,32 +44,32 @@
 
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
-| 🎧 House Party | Real-time chat + video calling | MERN, LiveKit, Clerk, Tailwind | 🔗 https://github.com/Akii017/Houseparty_App |
-| 💹 Welth – AI Finance Platform | AI insights + automated dashboarding | Next.js, Prisma, PostgreSQL, Gemini | 🔗 https://github.com/Akii017/Welth-AI-Finance-Platform |
-| 🤖 SensAI | AI interview prep, JWT auth | MERN, Gemini API | 🔗 https://github.com/Akii017/SensAI |
-| 🧠 CodeBuddy Extension | AI hints + solutions for LeetCode | FastAPI, Gemini, Shadcn | 🔗 https://github.com/Akii017/Code-Buddy |
+| 🎧 House Party | Real-time chat + video calls | MERN, LiveKit, Clerk, Tailwind | 🔗 https://github.com/Akii017/Houseparty_App |
+| 💹 Welth – AI Finance App | AI insights + automated reports | Next.js, Prisma, PostgreSQL, Gemini | 🔗 https://github.com/Akii017/Welth-AI-Finance-Platform |
+| 🤖 SensAI | AI interview prep with JWT auth | MERN, Gemini API | 🔗 https://github.com/Akii017/SensAI |
+| 🧠 CodeBuddy Extension | AI hints + LeetCode solutions | FastAPI, Gemini, Shadcn | 🔗 https://github.com/Akii017/Code-Buddy |
 
-> ✨ More in pinned repositories!
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akii017&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akii017&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akii017&layout=compact&theme=tokyonight" height="150" />
-</p>
+> ✨ More projects in pinned repos!
 
 ---
 
-### 🏆 Achievements
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akii017&theme=tokyonight&row=1&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-streak-stats-gold.vercel.app?user=Akii017&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akii017&show_icons=true&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akii017&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akii017&theme=tokyonight&no-frame=true&row=1&column=4" />
 </p>
 
 ---
