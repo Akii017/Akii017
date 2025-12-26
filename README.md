@@ -32,11 +32,33 @@
 
 ---
 
+
 ## 🛠 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,react,next,tailwind,nodejs,express,spring,mongodb,postgres,mysql,docker,kubernetes,jenkins,git,linux,vscode&perline=9" />
+  <!-- Core Languages / Frontend / Backend -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,react,nextjs,express,spring,fastapi,html,css,tailwind,bootstrap,redux,nodejs" />
+  
+  
+  <!-- Databases / DevOps -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,socketio,jwt,docker,kubernetes,jenkins" />
+  
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,githubactions,vercel,bash" />
+  <br/><br/>
+
+  <!-- 🔥 AI + Automation + Auth -->
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge&logo=livekit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=mailchimp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inngest-0A0A0A?style=for-the-badge&logo=protocols&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-5C3EE8?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcJet-A020F0?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
+
+
 
 ---
 
@@ -57,19 +79,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-gold.vercel.app?user=Akii017&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Akii017&show_icons=true&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akii017&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akii017&theme=tokyonight&no-frame=true&row=1&column=4" />
 </p>
 
 ---
